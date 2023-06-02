@@ -27,7 +27,7 @@ Clone the project
 
 ```bash
   git init
-  git clone git@github.com:GuiOliver27/
+  git@github.com:GuiOliver27/email-auth-jwt.git
 ```
 
 Enter the project directory
